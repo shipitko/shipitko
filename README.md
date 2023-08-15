@@ -12,4 +12,4 @@ You can always reach me via [Telegram](https://t.me/shipitko)[^4].
 [^1]: Ruby on Rails. Business domains: `Affiliate Marketing`, `Automotive`, `E-commerce`, `Educational`
 [^2]: Written a data pipeline with `GenStage`/`Flow` for fast processing of large chunk of CSV data and used `Phoenix` framework sometimes
 [^3]: Did front end applications for various SPAs using `backbone.js` and `React`, implemented few APIs with `express.js` 
-[^4]: <sub>(especially if you have a job for me which I'm actively searching)</sub>
+[^4]: ~~<sub>(especially if you have a job for me which I'm actively searching)</sub>~~ Except working time.
